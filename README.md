@@ -2,10 +2,6 @@
 
 I'm **Brendan Lieu**, a Computer Science student at UCI.
 
-## About Me
-
-I am a Computer Science student currently studying at the University of California, Irvine. I enjoy exploring various aspects of technology and software development, and I'm constantly looking for opportunities to grow my skills.
-
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,express,prisma,py&perline=8)](https://skillicons.dev)
 

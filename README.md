@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-I'm **Brendan Lieu**, a Computer Science student at UCI.
+I'm **Brendan Lieu**, a Computer Science student at UCI. 
+
+👉 [💼  Portfolio](https://brendan-lieu-portfolio-production.up.railway.app/) | 🛄 [LinkedIn](https://www.linkedin.com/in/blieu/)
 
 ---
 
@@ -29,9 +31,3 @@ A full-stack web application that allows university students to rate and review 
 **Languages/Tools:** React, TypeScript, Express, PostgreSQL, AWS (EC2 + RDS)  
 **Repositories:** [Frontend](https://github.com/brelieu05/RateMyClub-frontend) | [Backend](https://github.com/brelieu05/RateMyClub-backend)
 
----
-
-## 🌐 Connect with Me
-
-- [Portfolio](https://brendan-lieu-portfolio-production.up.railway.app/)  
-- [LinkedIn](https://www.linkedin.com/in/blieu/)

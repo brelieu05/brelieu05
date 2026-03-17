@@ -2,7 +2,7 @@
 
 I'm **Brendan Lieu**, a Computer Science student at UCI. 
 
-👉 [💼  Portfolio](https://brendan-lieu-portfolio-production.up.railway.app/) | 🛄 [LinkedIn](https://www.linkedin.com/in/blieu/)
+👉 [💼  Portfolio](https://brendanlieu.com) | 🛄 [LinkedIn](https://www.linkedin.com/in/blieu/)
 
 ---
 
